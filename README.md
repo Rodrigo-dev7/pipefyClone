@@ -12,6 +12,8 @@ Recriando **interface do PIPEFY usando React**, pipefy um Software de Gestão de
 departamentos como RH, Financeiro, Marketing, Suporte ao Cliente, TI e Desenvolvimento mais fácil e rápido.
 Mas com apenas **recurso de mover seus Cards de uma lista à outra**.
 
+## Referencia 
+#### [Rocketseat](https://www.youtube.com/watch?v=awRtgpRsdTQ)
 
 
 
